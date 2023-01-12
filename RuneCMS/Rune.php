@@ -78,11 +78,11 @@
  * *** One-Step Mathematical ***
  * [ Σ ], Mathematical Summation and Incrementation
  * [ Ξ ], Mathematical Difference and Decrement
- * :::, Index Section of Header, Mathematical
- * ->, Ever-Changing Information Within Never-Changing Variables, Mathematical
+ * :::, Index Section of Header
+ * ->, Ever-Changing Information Within Never-Changing Variables
  *
- * *** Pre-Ordered Algebraic ***
- *
+ * *** Pre-Ordered Algebraic Mathematical ***
+ * [ > ], Algebraic Statement Ending With Numeral
  ============================================================================================================
 */
 
