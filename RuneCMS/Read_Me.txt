@@ -42,29 +42,29 @@
 Installation Instructions
 ================================
 
-https://www.SourceForge.net/projects/cerberuscms/Documentation
-https://www.GitHub.com/TinkeSoftware/CerberusCMS_Documentation
+https://www.SourceForge.net/projects/runecms/Documentation
+https://www.GitHub.com/TinkeSoftware/RuneCMS_Documentation
 
 ================================
 CerberusCMS on Source Forge
 ================================
 
-https://www.SourceForge.net/projects/cerberuscms/
+https://www.SourceForge.net/projects/runecms/
 
 ================================
-CerberusCMS on Source Forge ( Demonstration Server )
+RuneCMS on Source Forge ( Demonstration Server )
 ================================
 
 http://CerberusCMS.SourceForge.net
 
 ================================
-CerberusCMS on Git Hub
+RuneCMS on Git Hub
 ================================
 
-https://www.GitHub.com/TinkeSoftware/CerberusCMS
+https://www.GitHub.com/TinkeSoftware/RuneCMS
 
 ================================
-CerberusCMS on Bit Bucket
+RuneCMS on Bit Bucket
 ================================
 
-https://www.BitBucket.org/TinkeSoftware/CerberusCMS
+https://www.BitBucket.org/TinkeSoftware/RuneCMS

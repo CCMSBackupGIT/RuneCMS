@@ -33,10 +33,10 @@
  ================================================================
 */
 
-Cerberus Content Management System is a Monolithic and Modular Content Management System as well as a Web Application Framework
+Rune Content Management System is a Monolithic and Modular Content Management System as well as a Web Application Framework
 that is written in 100% Pure Post-HyperText-PreProcessor Programming Code with 100% Pure Hyper-Text-Markup-Language output and it supports multiple Database Management Systems.
 
-Cerberus Content Management System Versions are always thoroughly tested for errors before official release and upon release will be free of error and will always pass validation checks for:
+Rune Content Management System Versions are always thoroughly tested for errors before official release and upon release will be free of error and will always pass validation checks for:
 * Hypertext Markup Language ( H.T.M.L. )
 * Robots Protocol ( R.P. )
 * Real Simple Syndication ( R.S.S. )
@@ -44,11 +44,11 @@ Cerberus Content Management System Versions are always thoroughly tested for err
 * Post-Hypertext Pre-Processor Engines ( P.H.P. )
 * Each of the Structured Query Lanaguage ( S.Q.L. ) Database Management Systems as well as the other Non-S.Q.L. Database Management Systems
 
-Cerberus Content Management System' source code is completely handwritten by the author(s) whose names are credited in each release.
+Rune Content Management System' source code is completely handwritten by the author(s) whose names are credited in each release.
 
-Approximately 35,000 lines of easy-to-read and well documented Lines-of-Code powers the Cerberus Content Management System Core Releases where these packages are released without additional Web Applications called Modules. There are several hundred quality Web Application Modules that can be curl, git or manually installed from the Administration Section. Additional Hand Written Web Application Modules by the Cerberus Content Management System Project authors are everything from Advanced Scientific Calculators to Retro Video Game Console Emulators such as for playing Nintendo Entertainment System video games in the web browser and more.
+Approximately 35,000 lines of easy-to-read and well documented Lines-of-Code powers the Rune Content Management System Core Releases where these packages are released without additional Web Applications called Modules. There are several hundred quality Web Application Modules that can be curl, git or manually installed from the Administration Section. Additional Hand Written Web Application Modules by the Rune Content Management System Project authors are everything from Advanced Scientific Calculators to Retro Video Game Console Emulators such as for playing Nintendo Entertainment System video games in the web browser and more.
 
-The Cerberus Content Management System ( Unix Name: CerberusCMS and CerberusC.M.S. ) project is focused on data security and ease of use
+The Rune Content Management System ( Unix Name: RuneCMS and RuneC.M.S. ) project is focused on data security and ease of use
 therefore we have decided to make very little use of JavaScript in the PurePHP Releases of this project.
 Since JavaScript is incredibly vulnerable we have decided to keep JavaScript use at a very basic minimum.
 
@@ -57,16 +57,16 @@ Future releases will feature 100% encrypted messages and 100% encrypted data whe
 All of the data will be decrypted from the database by using advanced key decryption unique to the session and page load.
 
 Currently you will only find a few lines of JavaScript code in the PurePHP Releases:
-* One line at the bottom of the Cerberus.php file to autoclose the Webpage for inactive sessions
+* One line at the bottom of the Rune.php file to autoclose the Webpage for inactive sessions
 * One line for the insertion of Bulletin Board ( B.B. ) codes into forms
 * One line to print the News and Article entries.
 
 The still-secure and easier-to-use releases make extensive use of JavaScript, JQuery Library and Asynchronous Javascript and XML ( A.J.A.X. ) for the best drag-and-drop user experience.
 
-Cerberus Content Management System Releases follow authentic Frisian / Frysk words for elements.
+Rune Content Management System Releases follow authentic Frisian / Frysk words for elements.
 
-Cerberus Content Management System, Version: 4, Build: 0.8, Edit Number: 00 - Code Name: Wynn ( ᚹ ) - PurePHP has been debugged and tested to be 100% functional and digitally information secure on the latest
-Apache, H.T.M.L., P.H.P. and MyS.Q.L. versions which at the time of this Cerberus Content Management System release is:
+Rune Content Management System, Version: 4, Build: 0.8, Edit Number: 00 - Code Name: Wunjo ( ᚹ ) - PurePHP has been debugged and tested to be 100% functional and digitally information secure on the latest
+Apache, H.T.M.L., P.H.P. and MyS.Q.L. versions which at the time of this Rune Content Management System release is:
 * 2022		Apache Version:		2.4.46
 * 2022		H.T.M.L. Version:	5.4
 * 2022		P.H.P. Version:		8.0.23
