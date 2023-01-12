@@ -64,14 +64,25 @@
  *
  *
  * - Searchable Programming Architecture Keys -
+ *
+ * Search These Keys With The Text-Editor Application Search Function
+ *
+ * *** Logical ***
  * [ @ ], Header of Programming Code Systems and Programming Code Blocks
  * [ + ], Programming Code Statement Ending With Description
- * =>, Ever-Changing Information Within Never-Changing Variables, Logical
- * ->, Ever-Changing Information Within Never-Changing Variables, Mathematical
- * ::, Index Section of Header, Logical
+ *
+ * *** Logical Object-Oriented ***
+ * =>, Ever-Changing Information Within Never-Changing Variables
+ * ::, Index Section of Header
+ *
+ * *** One-Step Mathematical ***
+ * [ Σ ], Mathematical Summation and Incrementation
+ * [ Ξ ], Mathematical Difference and Decrement
  * :::, Index Section of Header, Mathematical
- * [ Σ ], Mathematical Summation, Incrementation
- * [ Ξ ], Mathematical, Decrement
+ * ->, Ever-Changing Information Within Never-Changing Variables, Mathematical
+ *
+ * *** Pre-Ordered Algebraic ***
+ *
  ============================================================================================================
 */
 
